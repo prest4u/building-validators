@@ -3,7 +3,7 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "building-validators",
   "version": "1.0.0",
-  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
+  "source_commit": "dc360d012f77bd665727260ee0cd4b41e4ce966f",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
@@ -11,14 +11,14 @@
     "README.md": "4d01abf71121c622c64a9fd88e93a0dadeb93ce5d1c099ff55596b5372cbdbb7",
     "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
     "SKILL.md": "40a3d5531f8f2f02b08cf83a123546a12c9f1da44d93ab65a7d957a397a8cfe5",
-    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "THIRD_PARTY_NOTICES.md": "7ea8c597d096b99f54846b5b0ed97f638ab3475dc994432d603d1f02ebb477ac",
     "agents/openai.yaml": "b11ed20b6a643332d2114306c6fbe6f87e7550c216c223387fe609a807e3d323",
     "references/domain-recipes.md": "1e3b6fc8b52a182faf7844e7cb9b02a2f426a74670ffcc8ba31882ebb4c8624e",
     "references/failure-patterns.md": "0c5652a4924ff4293a33962838c0dee76e5531f5b73a972718a53d39c39d6e91",
     "references/gate-taxonomy.md": "0bfbdeceb211699ec2a1f7d42ddea50eacb44f82e6e044b668958824a4843ee9",
     "references/report-contract.md": "2489aab10d69e07417b71cf8f802c7be8bd37b734599d98c3e931fb9fbc485b6",
-    "scripts/scaffold_validator.py": "c5def186ec8ead4ce72f4d23cdb8baafc18f829443c1240333f0a0b01896e25e",
-    "scripts/test_scaffold_validator.py": "a9c60201572884d8e1a746fb2dad2e059a0aded37f274a4596edd2fd5d4f72bb",
+    "scripts/scaffold_validator.py": "6f3691c9d99f99bac8246b565212eaf7061c6dc12d0308ac002a389502897118",
+    "scripts/test_scaffold_validator.py": "d9bd38954e13b135304082df1f4bf7f21d2370cb8a725cfd4df6339f93d6d3d3",
     "scripts/validate_validator_bundle.py": "b5434be02d18c3d24491c347cf5c3cc27a4009ee4f629b7f4cdfaa9ebaafd59c",
     "test-prompts.json": "8e58f9429af27b55c1b7cddc6626ea42a208947f8ea7c2bef509531d7551706a"
   }
