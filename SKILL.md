@@ -1,6 +1,6 @@
 ---
 name: building-validators
-description: Build or revise a project-native executable validator for a recurring check. Use only when Eric explicitly invokes $building-validators and wants a repeated failure mode encoded as durable project policy; do not use for ordinary QA, a one-off review, or general test-and-fix work.
+description: Build or revise a project-native executable Validator for a recurring check. Use only when Eric explicitly asks for a Validator、验证、验收门禁 or QA rule and wants a repeated failure mode encoded as durable project policy; do not use for ordinary QA, a one-off review, or general test-and-fix work.
 ---
 
 # Building Validators
